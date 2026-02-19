@@ -71,3 +71,5 @@ volumes:
   postgres_data:
   qdrant_data:
   ollama_data:
+
+
